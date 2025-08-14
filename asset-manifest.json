@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/swaroopa-portfolio/static/css/main.973f15ef.css",
+    "main.js": "/swaroopa-portfolio/static/js/main.8d9944d2.js",
+    "static/js/453.e2eab33e.chunk.js": "/swaroopa-portfolio/static/js/453.e2eab33e.chunk.js",
+    "index.html": "/swaroopa-portfolio/index.html",
+    "main.973f15ef.css.map": "/swaroopa-portfolio/static/css/main.973f15ef.css.map",
+    "main.8d9944d2.js.map": "/swaroopa-portfolio/static/js/main.8d9944d2.js.map",
+    "453.e2eab33e.chunk.js.map": "/swaroopa-portfolio/static/js/453.e2eab33e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.973f15ef.css",
+    "static/js/main.8d9944d2.js"
+  ]
+}
